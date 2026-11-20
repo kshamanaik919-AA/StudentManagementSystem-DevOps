@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Uploaded student photos
+uploads/*
+!uploads/.gitkeep
+
+# Environment files
+.env
+.env.*
+!.env.example
