@@ -11,3 +11,5 @@ uploads/*
 .env
 .env.*
 !.env.example
+# Private database dump
+database/
